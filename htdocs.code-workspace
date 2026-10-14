@@ -1,0 +1,55 @@
+{
+	"folders": [
+		{
+			"name": "htdocs",
+			"path": ".."
+		},
+		{
+			"name": "CRUD",
+			"path": "../../CRUD"
+		},
+		{
+			"path": "../../PHP_Activity"
+		},
+		{
+			"path": "../../Project1"
+		},
+		{
+			"path": "../../../Users/philip/Desktop/Santos_JohnPhilip"
+		}
+	],
+	"settings": {
+		"sqltools.connections": [
+			{
+				"mysqlOptions": {
+					"authProtocol": "default",
+					"enableSsl": "Disabled"
+				},
+				"ssh": "Disabled",
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 3306,
+				"driver": "MySQL",
+				"username": "philipe",
+				"database": "sampledatabase",
+				"name": "Localhost Server"
+			},
+			{
+				"mysqlOptions": {
+					"authProtocol": "default",
+					"enableSsl": "Disabled"
+				},
+				"ssh": "Disabled",
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 3306,
+				"driver": "MySQL",
+				"name": "MySQL Local",
+				"database": "sampledatabase",
+				"username": "philip",
+				"password": ""
+			}
+		],
+		"liveServer.settings.multiRootWorkspaceName": "htdocs"
+	}
+}
